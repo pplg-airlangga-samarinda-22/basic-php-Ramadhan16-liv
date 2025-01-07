@@ -2,5 +2,7 @@
  $nama = "Muhammad Ramadhan";
  $nisn = "0078370571";
 
- echo $nama, " ", $nisn;
+ echo 'Nama : ' ,$nama ;
+ echo '<br>';
+ echo 'NISN : ' ,$nisn ;
 ?>
